@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		50347AC8A7E06277E846DD01 /* img.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9312E69E2050894C0009D739 /* img.jpg */; };
-		5C4A88249152DCF4ECB4FB9B /* img.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9312E69E2050894C0009D739 /* img.jpg */; };
 		9312E654205088810009D739 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9312E653205088810009D739 /* AppDelegate.m */; };
 		9312E657205088810009D739 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9312E656205088810009D739 /* ViewController.m */; };
 		9312E65A205088810009D739 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9312E658205088810009D739 /* Main.storyboard */; };
@@ -274,7 +272,6 @@
 				9312E67B205088A10009D739 /* LaunchScreen.storyboard in Resources */,
 				9312E678205088A10009D739 /* Assets.xcassets in Resources */,
 				9312E676205088A10009D739 /* Main.storyboard in Resources */,
-				5C4A88249152DCF4ECB4FB9B /* img.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,7 +282,6 @@
 				9312E695205088B80009D739 /* LaunchScreen.storyboard in Resources */,
 				9312E692205088B80009D739 /* Assets.xcassets in Resources */,
 				9312E690205088B80009D739 /* Main.storyboard in Resources */,
-				50347AC8A7E06277E846DD01 /* img.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
